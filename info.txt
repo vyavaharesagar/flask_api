@@ -1,0 +1,8 @@
+SQLALCHEMY_DATABASE_URI
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/config/
+sqlite:////tmp/test.db
+mysql://username:password@server/db
+SQLALCHEMY_TRACK_MODIFICATIONS
+sqlite viewer
+jinja2 snippet kit
+how to use incremental number in jinja2?  ->  loop.index
