@@ -15,3 +15,5 @@ command to create requriements.txt
 pip freeze > requriements.txt
 
 make a Proc file to tell the heroku our project structure
+
+heroku create flask_api
