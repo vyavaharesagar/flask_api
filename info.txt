@@ -1,3 +1,4 @@
+Set-ExecutionPolicy unrestricted
 SQLALCHEMY_DATABASE_URI
 https://flask-sqlalchemy.palletsprojects.com/en/2.x/config/
 sqlite:////tmp/test.db
@@ -6,3 +7,11 @@ SQLALCHEMY_TRACK_MODIFICATIONS
 sqlite viewer
 jinja2 snippet kit
 how to use incremental number in jinja2?  ->  loop.index
+heroku
+install heroku cli
+install ganicorn 
+
+command to create requriements.txt
+pip freeze > requriements.txt
+
+make a Proc file to tell the heroku our project structure
